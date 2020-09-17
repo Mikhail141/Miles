@@ -47,4 +47,4 @@ out/
 !**/src/test/**
 *src
 *md
-*.Miles
+*Main.Java.Miles
